@@ -1,23 +1,26 @@
 # Chicken Broccolli Pasta Casserole
 
+![alt text](./img/chicken-broccolli-pasta-casserole.jpg "Image")
+
+
 ## Info
 
 Serves 18
 
 ## Ingredients
 
--1.5kg Chicken
--1kg Wholemeal pasta spirals
--5cup Chicken stock
--500g Cashews
--500g Mixed frozen veg
--500g Frozen broccolli
--3cup Milk
--4tsp Garlic powder
--4tsp Paprika
--4tsp Cornflour
--Salt & Pepper
--500g Cheddar cheese (optional)
+* 1.5kg Chicken
+* 1kg Wholemeal pasta spirals
+* 5cup Chicken stock
+* 500g Cashews
+* 500g Mixed frozen veg
+* 500g Frozen broccolli
+* 3cup Milk
+* 4tsp Garlic powder
+* 4tsp Paprika
+* 4tsp Cornflour
+* Salt & Pepper
+* 500g Cheddar cheese (optional?)
 
 ## Method
 
