@@ -1,6 +1,6 @@
 # Chicken Broccolli Pasta Casserole
 
-![Image](img/chicken-broccolli-pasta-casserole.jpg)
+![](./img/chicken-broccolli-pasta-casserole.jpg)
 
 ## Info
 
