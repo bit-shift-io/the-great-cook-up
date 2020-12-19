@@ -10,7 +10,6 @@ Dad's recipie
 * pepper
 * dash curry powder
 * salt
-* dash vanilla essence
 
 ## Extras
 
