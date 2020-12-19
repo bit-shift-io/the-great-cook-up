@@ -1,5 +1,5 @@
 # The Great Cook Up
-![](https://en.wikipedia.org/wiki/Food#/media/File:Good_Food_Display_-_NCI_Visuals_Online.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg)
 
 Cooking recipes
 
