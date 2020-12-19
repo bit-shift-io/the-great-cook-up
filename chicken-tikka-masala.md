@@ -1,4 +1,4 @@
-# Bacon and Egg Pie/Quiche
+# Chicken Tikka Masala
 
 ## Info
 

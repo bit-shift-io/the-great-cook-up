@@ -12,6 +12,7 @@
 * 1/4tsp worstershire sauce
 * 1 lemon juice or vinegar
 * salt + pepper to taste
+* cayenne
 
 ## Method
 
