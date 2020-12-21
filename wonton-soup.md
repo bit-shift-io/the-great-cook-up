@@ -21,6 +21,7 @@ Serves 3
 * buk choy
 * egg noddles
 * spring onion
+* bean sprouts
 
 ## Method
 
