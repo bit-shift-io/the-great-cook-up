@@ -1,7 +1,5 @@
 # Seafood Sauce (Thousand Island)
 
-## Info
-
 ~2 cups
 
 ## Ingredients

@@ -1,8 +1,5 @@
 # Potato Wedge Seasoning
 
-## Info
-
-
 ## Base
 
 * garlic powder

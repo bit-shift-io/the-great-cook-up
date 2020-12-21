@@ -1,7 +1,5 @@
 # Turkish Kebab Marinade
 
-## Info
-
 For 1.2-1.5kg chicken thighs
 
 ## Ingredients

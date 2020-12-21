@@ -1,7 +1,5 @@
 # Sweet and Sour
 
-## Info
-
 ~2 cups 
 serves 4
 

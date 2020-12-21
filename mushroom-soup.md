@@ -1,7 +1,5 @@
 # Mushroom Soup
 
-## Info
-
 serves 4
 
 ## Step 1

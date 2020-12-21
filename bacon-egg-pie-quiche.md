@@ -1,7 +1,5 @@
 # Bacon and Egg Pie/Quiche
 
-## Info
-
 Serves 8
 
 ## Ingredients

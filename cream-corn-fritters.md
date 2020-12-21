@@ -1,7 +1,5 @@
 # Cream Corn Fritters
 
-## Info
-
 Makes 8
 
 ## Ingredients

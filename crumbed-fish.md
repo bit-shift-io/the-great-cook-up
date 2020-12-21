@@ -1,7 +1,5 @@
 # Crumbed Fish
 
-## Info
-
 Dad's recipie
 
 ## Ingredients

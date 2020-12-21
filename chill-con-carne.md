@@ -1,7 +1,5 @@
 # Chilli Con Carne
 
-## Info
-
 Serves 4
 
 ## Ingredients

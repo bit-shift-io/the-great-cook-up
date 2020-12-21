@@ -1,7 +1,5 @@
 # Mongolian
 
-## Info
-
 ~2 cups
 serves 2
   

@@ -1,7 +1,5 @@
 # Szechuan Chicken
 
-## Info
-
 ~1.5 cups 
 serves 2
 

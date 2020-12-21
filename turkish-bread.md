@@ -1,7 +1,5 @@
 # Turkish Bread or Pan Pizza
 
-## Info
-
 1 pizza size base
 no-knead
 

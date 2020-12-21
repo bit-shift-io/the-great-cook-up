@@ -1,7 +1,5 @@
 # Wonton Soup
 
-## Info
-
 Serves 3
 
 ## Base Ingredients

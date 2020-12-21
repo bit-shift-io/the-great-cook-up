@@ -1,7 +1,5 @@
 # Chicken Korma
 
-## Info
-
 Serves 4
 
 ## Spice Mix

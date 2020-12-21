@@ -1,7 +1,5 @@
 # Peanut Satay
 
-## Info
-
 ~1 cups 
 serves 2
 

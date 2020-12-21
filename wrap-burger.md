@@ -1,10 +1,5 @@
 # Wraps & Burgers
 
-![](./img/wrap-1.jpg)
-![](./img/wrap-2.jpg)
-
-## Info
-
 Serves: As many as you need
 Time to make: 10min
 
@@ -34,3 +29,6 @@ Chicken schnitzels - recommend using sweet chilli sauce + mayo or chipotle
 IKEA Metballs - recommend using tomato sauce + mayo
 
 You can experiment with different types of mayo or salad dressings and sauces. eg. Coldslaw dressing or adding a touch of greek salad dressing
+
+![](./img/wrap-1.jpg)
+![](./img/wrap-2.jpg)

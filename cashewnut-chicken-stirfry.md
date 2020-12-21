@@ -1,7 +1,5 @@
 # Cashewnut Chicken
 
-## Info
-
 ~2 cups
 serves 4
 

@@ -1,7 +1,5 @@
 # Tzatziki Sauce
 
-## Info
-
 ~3 cups
 
 ## Ingredients

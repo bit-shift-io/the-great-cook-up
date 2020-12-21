@@ -1,7 +1,5 @@
 # Rice Pudding
 
-## Info
-
 Serves 2-3
 
 ## Ingredients

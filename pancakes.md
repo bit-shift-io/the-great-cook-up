@@ -1,7 +1,5 @@
 # Pancakes
 
-## Info
-
 Makes 10
 
 ## Ingredients

@@ -1,7 +1,5 @@
 # Pud Thai
 
-## Info
-
 ~1 cups
 serves 4
 

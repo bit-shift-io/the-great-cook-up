@@ -1,7 +1,5 @@
 # Apple Pie
 
-## Info
-
 Serves 4
 
 ## Ingredients
@@ -13,7 +11,7 @@ Serves 4
 * 1/4tsp salt
 * 1/2 lemon juice
 * plain flour
-* egg wash
+* egg wash or milk
 * puff pastry
 
 ## Method
@@ -24,7 +22,7 @@ Serves 4
 4. :ightly floured surface roll out puff pastry and divide for 4 rolls
 5. Spoon the apple mix leaving a border. roll up and crimp edges
 6. Add some cuts in the top with scissors or knife
-7. Brush with egg wash and sprinkle with extra cinnamon + sugar
+7. Brush with egg wash or milk and sprinkle with extra cinnamon + sugar
 8. Bake till golden brown about 25m
 
 ## Notes

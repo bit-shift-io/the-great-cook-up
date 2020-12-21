@@ -1,7 +1,5 @@
 # Chicken Tikka Masala
 
-## Info
-
 Serves 8
 
 ## Marinade

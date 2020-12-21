@@ -1,7 +1,5 @@
 # Shortbread Biscuits
 
-## Info
-
 Makes 12
 
 ## Ingredients

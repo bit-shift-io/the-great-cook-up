@@ -1,7 +1,5 @@
 # Tuna Salad
 
-## Info
-
 Serves 1
 
 ## Ingredients

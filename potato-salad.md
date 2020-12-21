@@ -1,7 +1,5 @@
 # Potato Salad
 
-## Info
-
 Serves 10
 
 ## Ingredients

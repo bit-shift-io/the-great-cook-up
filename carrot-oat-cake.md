@@ -1,7 +1,5 @@
 # Carrot Oat Cake
 
-## Info
-
 Serves 8
 
 ## Wet Ingredients

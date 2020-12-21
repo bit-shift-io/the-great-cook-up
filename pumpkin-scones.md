@@ -1,7 +1,5 @@
 # Pumpkin Scones
 
-## Info
-
 Makes 12
 
 ## Ingredients

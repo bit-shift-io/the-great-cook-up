@@ -1,8 +1,5 @@
 # Corned Silverside
 
-## Info
-
-
 ## Ingredients
 
 * 1.5kg silverside
