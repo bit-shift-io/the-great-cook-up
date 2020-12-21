@@ -29,7 +29,7 @@ Time to make: 10min
 
 ## Notes
 
-Chicken schnitzels - recommend using sweet chilli sauce + mayo
+Chicken schnitzels - recommend using sweet chilli sauce + mayo or chipotle
 
 IKEA Metballs - recommend using tomato sauce + mayo
 

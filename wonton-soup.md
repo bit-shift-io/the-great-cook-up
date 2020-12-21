@@ -20,7 +20,7 @@ Serves 3
 * 4 cups chicken stock
 * 1-2 chicken breasts
 * wontons
-* buk choi
+* buk choy
 * egg noddles
 * spring onion
 
@@ -30,7 +30,7 @@ Serves 3
 2. Add sauce ingredients and fry for 20s
 3. Add stock and bring to boil
 4. Add chicken, noodles, wontons
-5. Add buk choi 
+5. Add buk choy
 6. Sprinkle w spring onions
 
 ## Notes
