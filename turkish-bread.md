@@ -32,7 +32,7 @@ no-knead
 1. Knead about 10m until smooth
 2. Let rest for 1 hour
 3. Cut into 6 balls
-4. Roll out and cook for 2-3 mins on each side
+4. Roll out and cook for 2-3 mins on each side in frypan
    
 ## Notes
 https://www.youtube.com/watch?v=v8L7Ysr_5ao&list=WL&index=56
