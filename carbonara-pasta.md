@@ -24,3 +24,5 @@ Serves 4
 ## Notes
 
 Dont rinse pasta when cooked, allow it to cool a little to become sticky
+
+https://www.youtube.com/watch?v=3AAdKl1UYZs
