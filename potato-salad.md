@@ -9,8 +9,8 @@ Makes 1 large bowl
 * 1/2kg bacon
 * 2kg potatoes
 * 1.5 bottles potato dressing
-* 1-2 capcicum
-* 1-2 red onion
+* 1 capcicum
+* 1 red onion
 * 1/2 cup vinegar
 
 ## Extras
