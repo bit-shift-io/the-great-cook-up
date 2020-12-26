@@ -4,7 +4,6 @@ Serves 3
 
 ## Base Ingredients
 
-* 1tsp salt
 * 1tsp ginger powder
 * 1tsp garlic powder
 * 1Tb cooking wine
@@ -17,11 +16,18 @@ Serves 3
 
 * 4 cups chicken stock
 * 1-2 chicken breasts
-* wontons
-* buk choy
+* 10-15 wontons
+* buk choy quatered lengthwise
 * egg noddles
 * spring onion
 * bean sprouts
+
+## Extras
+
+* grated carrot
+* spinach instead of bok choy
+* mushrooms
+* shrimp
 
 ## Method
 
@@ -33,3 +39,5 @@ Serves 3
 6. Sprinkle w spring onions
 
 ## Notes
+
+Add 1/2 cup water to dilute the stock if too salty
