@@ -6,9 +6,12 @@ Makes 12
 
 * 1/2 cup butter
 * 1 cup sugar
-* 4Tb condensed milk
 * 1/2 cup chocolate bits (cadbury melts) or macaamia nuts
 * 2 cups flour
+
+## Extras
+
+* 3Tb condensed milk
 
 ## Method
 
@@ -18,3 +21,5 @@ Makes 12
 4. Bake 170c ~12-15m
 
 ## Notes
+
+These are insanely sweet! Only a few people can handle this much sugar!
