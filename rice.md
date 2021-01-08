@@ -8,7 +8,9 @@ Can also cook in stock for flavoured rice.
 
 Min 1.5 cups
 
-1 rice : 1 water - should be ok
+1 rice : 1 water - a little dry
+
+1 rice : 1.25 water - should be spot on
 
 1 rice : 1.5 water - good
 
