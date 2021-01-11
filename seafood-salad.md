@@ -4,12 +4,13 @@ Serves 10
 
 ## Ingredients
 
-* 1kg seafood mix
-* 1kg pasta
-* 2-4 bottles thousand island
-* 1 red capcicum
-* 1-2 stick celary
-* 1 red onion
+* 1kg seafood mix, cubed
+* 500g pasta
+* 2 bottles thousand island - rinse with vinegar
+* 1/4 cup mayo
+* 1 large red capcicum
+* 2-3 stick celary
+* 2 red onion
 
 ## Method
 
