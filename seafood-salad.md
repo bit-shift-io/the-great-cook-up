@@ -19,3 +19,5 @@ Serves 10
 3. Mix
 
 ## Notes
+
+![](./img/seafood-salad-1.jpg)
