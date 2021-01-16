@@ -12,12 +12,13 @@ Serves 1
 * 1 tsp of oil
 
 ## Sauce
-* 1 Tb of oyster sauce
-* 1 Tb of light soy sauce
-* 1 tsp of dark soy sauce (just for the color)
-* 3 Tb of water 
-* 2 tsp of cornstarch
-* 1 tsp of sugar
+
+* 1/2 Tb oyster sauce
+* 1/2 Tb hoisin
+* 1 Tb light soy sauce
+* 3 Tb water 
+* 2 tsp cornstarch
+* 1 tsp sugar
 * 1 tsp pepper to taste
 
 ## Ingredients
@@ -30,6 +31,7 @@ Serves 1
 * bok choy
 * cellary
 * onion
+* cashew nuts
 
 ## Method
 
@@ -42,6 +44,8 @@ Serves 1
 7. In the same wok, add a little bit of oil. Put in some garlic and give it a stir. Pour the sauce into the hot wok. It will start thickening quickly. Then add in the broccoli. Mix it a little bit. Add the beef back into the wok. Coat it nicely. You are done.
 
 ## Notes
+
+* Use extra water if not using broccoli
 
 https://www.youtube.com/watch?v=9nzlWBw6HyQ&list=WL&index=17
 
