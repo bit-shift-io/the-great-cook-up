@@ -7,10 +7,10 @@ Makes 1 large bowl
 ## Ingredients
 
 * 1/2kg bacon
-* 2kg potatoes
+* 2kg potatoes cubed unpeeled
 * 1.5 bottles potato dressing
 * 1 capcicum
-* 1 red onion
+* 2 red onion
 * 1/2 cup vinegar
 
 ## Extras
@@ -18,14 +18,16 @@ Makes 1 large bowl
 * mixed veg
 * spring onions/chives
 * mustard
+* celary
 
 ## Method
 
 1. Peel, cut and boil potatoes till firm-soft
-2. Dice bacon and onion, give a quick fry in butter and oil
-3. Mix
-4. Refrigerate
-5. Add extras sauce to make fresh before serving
+2. Fry bacon lightly in butter and plenty of oil to make a flavoured slurry
+3. Add onions and capcicum and continue cooking lightly for 1 minute
+4. Mix ingridients
+5. Refrigerate
+6. Add extras sauce to make fresh before serving
 
 ## Notes
 
