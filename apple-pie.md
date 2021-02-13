@@ -14,12 +14,16 @@ Serves 4
 * egg wash or milk
 * puff pastry
 
+## Ingredients
+
+* Saltanas/rasins
+
 ## Method
 
 1. Preheat oven to 200c
-2. Medium heat add butter, apples, cinnamon, sugar till apples are soft
+2. Medium heat add butter, apples, cinnamon, sugar, salt and lemon till apples are soft and juice cooked off ~8m
 3. Let the mix cool
-4. :ightly floured surface roll out puff pastry and divide for 4 rolls
+4. Lightly floured surface roll out puff pastry and divide for 4 rolls
 5. Spoon the apple mix leaving a border. roll up and crimp edges
 6. Add some cuts in the top with scissors or knife
 7. Brush with egg wash or milk and sprinkle with extra cinnamon + sugar
