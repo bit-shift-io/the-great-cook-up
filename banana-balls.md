@@ -1,13 +1,13 @@
 # Banana Balls
 
-Serves 6
+Makes 10 balls
 
 ## Ingredients
 
 * 2 ripe bananas
 * 1 cup flour
 * 1/3 or 1/2 cup sugar
-* 1/4tsp baking soda
+* 1/4tsp baking soda (or 2tsp yeast + 1hr rise)
 * 1tsp cardamon (or cinnamon/nutmeg)
 * 1tsp butter
 
