@@ -5,6 +5,3 @@ Cooking recipes
 
 Images should be around 500px width and at the end
 
-
-https://bit-shift-io.github.io/the-great-cook-up/
-
