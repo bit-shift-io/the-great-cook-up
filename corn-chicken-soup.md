@@ -27,3 +27,5 @@ serves 4
 4. Turn off, add egg and mix through till it ribbons
 
 ## Notes
+
+https://www.recipetineats.com/chinese-chicken-corn-soup/
