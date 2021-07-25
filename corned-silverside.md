@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-* 1.5kg silverside
+* 1.5 kg silverside
 * 1.5 cup vinegar
 * 4 Tb brown sugar
 * 2 tsp salt
@@ -11,13 +11,14 @@
 
 ## Extras
 
-* 2 bay 
+* 1 garlic clove
+* 2 bay leaves
 * onion
 
 
 ## Method
 
-1. Boil 2-4hr or 1-2hr in pressure cooker with quick release
+1. Boil 2-4hr or 1.5-2hr in pressure cooker with quick release
 2. Let sit in the warm water ~30m
 3. If fork goes in easy, its ready
 
