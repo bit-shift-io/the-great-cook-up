@@ -3,14 +3,24 @@
 ## Ingredients
 
 * 1.5kg silverside
-* 1 cup per 1kg vinegar
-* 3-4Tb brown sugar
-* 2tsp salt
-* whole peppercorns
+* 1.5 cup vinegar
+* 4 Tb brown sugar
+* 2 tsp salt
+* 1/2 Tb whole peppercorns
 * water to cover
+
+## Extras
+
+* 2 bay 
+* onion
+
 
 ## Method
 
-1. Boil 2hr or 1-1.5hr in pressure cooker
+1. Boil 2-4hr or 1-2hr in pressure cooker with quick release
+2. Let sit in the warm water ~30m
+3. If fork goes in easy, its ready
 
 ## Notes
+
+Throw in half onions, chunky carrots, spud, cabbage 1hr before finished for a meal
