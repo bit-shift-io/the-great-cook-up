@@ -4,12 +4,12 @@ Serves 4
 
 ## Ingredients
 
-* 500 g pork belly
-* 1-2 cup yellow rice cooking wine
-* 2 Tb sugar cubes
-* sliced ginger
+* 0.5-1 kg pork belly
+* 1-2 cups yellow rice cooking wine
+* 1-2 Tb sugar cubes
+* 3-4 slices ginger
 * 1/2 Tb dark soy sauce
-* 1 tsp salt
+* 1-2 tsp salt
 
 ## Method
 
@@ -22,3 +22,5 @@ Serves 4
 7. Add sugar cubes, high heat till it caramelises
 
 ## Notes
+
+Serve with rice and fried green veg (bok choy) or green salad
