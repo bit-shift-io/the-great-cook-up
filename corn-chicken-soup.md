@@ -5,7 +5,7 @@ serves 4
 ## Ingredients
 
 * 2 cups of chicken or veg stock
-* 1 can creamed corn
+* 1 can creamed corn (wifey doesnt like this)
 * 1 tsp soy sauce
 * 1 Tb cooking wine
 * 1 tsp ginger minced
