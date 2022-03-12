@@ -6,24 +6,24 @@ Serves 4
 
 * 1 brown onion
 * 1 red capcicum
-* mixed frozen veg
-* 2Tb minced garlic
-* 1kg beef mince
+* 1/2 - 1 cup mixed frozen veg
+* 2 Tb minced garlic
+* 1 kg beef mince
 * 1 can diced tomato
 * 1 can kidney beans
 
 ## Sauce Ingredients
 
-* 1/2tsp salt
-* 2Tb worstershire sauce
-* 1/2tsp black pepper
-* 1tsp cayenne pepper
-* 2tsp cummin
-* 1Tb BBQ or tomato sauce
-* 1tsp cinnamon
-* 2Tb chicken stock
-* 2Tb beef stock
-* 1tsp chilli flakes
+* 1/2 tsp salt
+* 1/2 tsp black pepper
+* 1/2 tsp cayenne pepper
+* 2 tsp cummin
+* 1 Tb BBQ or tomato sauce
+* 1 tsp cinnamon
+* 2 Tb chicken stock
+* 2 Tb beef stock
+* 1/2 tsp chilli flakes (optional for spice)
+* 2 Tb worstershire sauce
 * 1 cup water
 
 ## Extras
