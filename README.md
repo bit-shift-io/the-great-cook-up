@@ -4,4 +4,3 @@
 Cooking recipes
 
 Images should be around 500px width and at the end
-
