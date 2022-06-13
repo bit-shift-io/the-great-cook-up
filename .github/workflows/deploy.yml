@@ -1,0 +1,27 @@
+name: Deploy to Github Pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  dispatch:
+      runs-on: ubuntu-latest
+      steps:
+      # - run: |
+      #     curl -u "github_username:github_personal_access_token" \
+      #        -H "Accept: application/vnd.github.everest-preview+json" \
+      #        -H "Content-Type: application/json" \
+      #        https://api.github.com/repos/bit-shift-io/the-great-cook-up-website/actions/workflows/deploy.yml/dispatches \
+      #        --data '{"ref": "main"}'
+      - uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.PAT_TOKEN }}
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: 'bit-shift-io',
+              repo: 'the-great-cook-up-website',
+              workflow_id: 'deploy.yml',
+              ref: 'main'
+            })
