@@ -1,6 +1,7 @@
 # Beef and Mushroom Soup
 
 Serves 10?
+
 Time: 30min prep + 2hr cook 
 
 ## Ingredients
