@@ -1,26 +1,27 @@
 # Oatmeal Porridge
 
-Serves 2
-
-
 ## Ingredients
 
-* 1 cup oats
-* 3 cups milk or water
-* 1tsp cinnamon
-* 1Tb butter
-* 1/4tsp salt
-
+* 1 cup water
+* 1 cup milk
+* 1 cup water
+* 1 tsp vanilla essence
+* 1-2 tsp salt
+* 1 Tb sugar
 
 ## Extras
 
-* brown/raw sugar
-* honey
-
+* 1 Tb honey or strawberry jam
+* 1 tsp cinnamon
+* 1 Tb butter
 
 ## Method
 
-1. 4m-6m in pressure cooker with quick release
+1. Add ingriedients to microwave safe container
+2. Leave overnight (optional)
+3. Microwave for 5 mins, stir, then another 5 mins
 
 
 ## Notes
+
+1 cup oats serves 2 people
