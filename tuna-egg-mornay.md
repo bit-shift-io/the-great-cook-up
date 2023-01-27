@@ -24,11 +24,11 @@ Time to make: 1hr prep + precook, 30min cook
 
 ## Method
 
-1. Boil eggs (4min from putting kettle water in, rest for 4min in water) and coursely dice, dice onion and cappy
+1. Boil eggs (4min from putting kettle water in, rest for 4min in water) and coursely dice, dice onion and cappy. Drain tuna - set aside juice.
 2. Prepare topping mixture
 3. Melt butter, add onion and cappy. Fry till tender
 4. Add flour and gradually stir in milk (off heat). Bring to boil and stir until tickened. Keep mixing!
-5. Add tuna, egg, cheese, salt & paper. Heat through.
+5. Add tuna, ~50% of tuna juice, egg, cheese, salt & paper. Heat through.
 6. Pour into 2 litre baking dish. Sprinkle with topping
 7. Bake for ~30min @ 180 deg
 
