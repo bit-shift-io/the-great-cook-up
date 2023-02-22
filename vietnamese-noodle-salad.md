@@ -1,8 +1,8 @@
 # Vietnamese Noodle Salad
 
-Serves 4
-Prep 1 h
-Cook 10 m
+Serves 4  
+Prep 1 h  
+Cook 10 m  
 
 ## Marinade
 
@@ -30,6 +30,7 @@ Cook 10 m
 * 2 carrots julienned
 * 2 cucumbers julinned
 * 6 ice berg lettuce leaves finely sliced
+* crushed nuts
 * onion or spring onion (optional)
 * 1 cup bean sprouts (optional)
 * hand full of mint leaves (optional)
@@ -42,6 +43,7 @@ Cook 10 m
 3. Prep vermicelli noodles according to packet. Rinse with cold water.
 4. Mix sauce. Ensure sugar dissolves.
 5. Prep veggies. 
+6. Serve with crushed nuts on top.
 
 ## Notes
 

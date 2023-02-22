@@ -29,6 +29,8 @@ serves 8
 * 02 Basic Rapid/Cake setting
 * light crust
 
+* 15 Cook only - 45 mins, remove the mixer
+
 ## Notes
 
 https://www.breadmachinediva.com/banana-bread-recipe-for-the-bread-machine/
