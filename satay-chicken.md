@@ -7,7 +7,7 @@ Time to make: 1hr prep, 20min cook
 ## Ingredients
 
 * 2 onion
-* 2Tb garlic
+* 2tsp garlic
 * 2 red capsicum
 * 2kg diced chicken thigh
 * 2Tb soy sauce
