@@ -6,7 +6,6 @@
 * 1 cup milk
 * 1 cup water
 * 1 tsp vanilla essence
-* 1/2 tsp salt
 * 1 Tb sugar
 
 ## Extras
