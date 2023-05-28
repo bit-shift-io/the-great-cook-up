@@ -1,8 +1,8 @@
 # Gnocchi with Vegetables and Parmesan
 
-Serves 4
-Prep 10 m
-Cook 15 m 
+Serves 4  
+Prep 10 m  
+Cook 15 m   
 
 ## Ingredients
 
@@ -15,6 +15,13 @@ Cook 15 m
 * 1 onion sliced
 * garlic
 * slice of lemon
+
+
+## Extras
+
+* bacon
+* light sour cream
+
 
 ## Method
 
