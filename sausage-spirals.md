@@ -1,5 +1,7 @@
 # Sausage Spirals
 
+Desc: Vinegary kinda licorice flavoured version of spag
+
 Serves: 4
 
 Time to make: 20min
