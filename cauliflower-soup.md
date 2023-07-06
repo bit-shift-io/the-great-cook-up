@@ -1,16 +1,18 @@
 # Cauliflower Soup
 
-Serves: 12
+Serves: 4
 
 Time: 15min prep + 55min cook
 
 ## Ingredients
 
-* 2 whole cauliflower
-* 2 brown onion
+* 1 whole cauliflower
+* 1 brown onion
 * 4 tsp garlic paste
-* 7 cups chicken stock
-* 2x400g can cannellini beans
+* 3-4 cups chicken stock
+* 400g can cannellini beans
+* 500g bacon
+* 1 cups mixed veg
 
 ## Method
 
@@ -18,7 +20,7 @@ Time: 15min prep + 55min cook
 
 2. Spray oven tray live oil. Put on cauliflower (leave 1/2 cup aside) and onion. Roast for 30min
 
-3. Fry bacon and garlic paste in wok
+3. Fry onion, bacon, garlic and veg in wok. then put aside
 
 4. Put roast veg into wok. Add stock beans. Bring to simmer. Cook for ~15min or till cauliflower tender
 
