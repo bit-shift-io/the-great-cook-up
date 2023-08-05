@@ -1,4 +1,4 @@
-# Sticky Date Pudding
+# Microwave Custard
 
 
 Makes:  2 cups
