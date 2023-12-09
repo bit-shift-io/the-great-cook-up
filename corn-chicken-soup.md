@@ -29,3 +29,5 @@ serves 4
 ## Notes
 
 https://www.recipetineats.com/chinese-chicken-corn-soup/
+
+Tags: Soup

@@ -34,3 +34,5 @@ serves 6
 ## Notes
 
 https://www.healthymealplans.com/recipe-details/creamy-chicken-and-vegetable-soup
+
+Tags: Soup

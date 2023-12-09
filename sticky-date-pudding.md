@@ -34,3 +34,5 @@ TIP: The pudding (without maple syrup or custard) is suitable to freeze.  Cut co
 From Raelene
 
 Ideal with "Microwave Custard"
+
+Tags: Dessert

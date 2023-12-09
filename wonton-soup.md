@@ -41,3 +41,5 @@ Serves 3
 ## Notes
 
 Add 1/2 cup water to dilute the stock if too salty
+
+Tags: Soup

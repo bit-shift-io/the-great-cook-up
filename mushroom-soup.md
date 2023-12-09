@@ -29,3 +29,5 @@ serves 4
 
 
 ## Notes
+
+Tags: Soup

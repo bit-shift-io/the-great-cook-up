@@ -17,3 +17,5 @@ Serves: 8
 3. cook 2hr
 
 ## Notes
+
+Tags: Soup

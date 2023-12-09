@@ -26,3 +26,5 @@ Serves 8
 2. 180c ~60m cover with foil for first half
 
 ## Notes
+
+Tags: Dessert

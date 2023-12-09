@@ -30,3 +30,5 @@ salt & pepper to taste
 ## Notes
 
 https://www.sweetysalado.com/en/2013/08/tartar-sauce.html
+
+Tags: Sauce

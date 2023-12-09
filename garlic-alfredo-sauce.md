@@ -29,3 +29,5 @@ For use on pasta or chicken shnitz
 If you want to use heavy cream, then just eliminate the flour and replace the milk with heavy cream. 
 
 https://bestrecipebox.com/alfredo-sauce-recipe/
+
+Tags: Sauce

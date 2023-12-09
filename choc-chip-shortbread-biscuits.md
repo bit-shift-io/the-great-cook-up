@@ -23,3 +23,5 @@ Makes 12
 ## Notes
 
 These are insanely sweet! Only a few people can handle this much sugar!
+
+Tags: Dessert

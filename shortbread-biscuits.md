@@ -16,3 +16,5 @@ Makes 12
 3. Bake 160c ~20m
 
 ## Notes
+
+Tags: Dessert

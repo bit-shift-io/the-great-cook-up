@@ -19,3 +19,5 @@ serves 6
 1. cook 40m @ 180c
 
 ## Notes
+
+Tags: Dessert
