@@ -32,3 +32,5 @@ Serves 4
 ## Notes
 
 https://www.delish.com/cooking/recipe-ideas/recipes/a21006/mcdonalds-apple-pie-recipe-del0313/
+
+Tags: Desert

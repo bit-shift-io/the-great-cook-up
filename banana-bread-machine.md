@@ -34,3 +34,5 @@ serves 8
 ## Notes
 
 https://www.breadmachinediva.com/banana-bread-recipe-for-the-bread-machine/
+
+Tags: Bread Machine, Dessert
