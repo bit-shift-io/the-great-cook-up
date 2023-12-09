@@ -30,4 +30,4 @@ Time: 20min prep + 60min cook
 
 Sriracha for some extra kick post cook
 
-Original recipie: https://www.taste.com.au/recipes/lamb-chickpea-stuffed-capsicums-recipe/wx678yev
+Original: https://www.taste.com.au/recipes/lamb-chickpea-stuffed-capsicums-recipe/wx678yev

@@ -46,6 +46,6 @@ Time: 60min prep + 30min cook
 
 ## Notes
 
-* Original recipe: https://www.bbc.co.uk/food/recipes/express_lasagne_51375
+Original: https://www.bbc.co.uk/food/recipes/express_lasagne_51375
 
 ![](./img/chilli-pork-lasagne-1.jpg)

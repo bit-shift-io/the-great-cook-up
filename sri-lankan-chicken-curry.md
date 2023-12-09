@@ -40,4 +40,6 @@ Time to make: 30min prep, 4hr cook
 
 ## Notes
 
-* Original: https://www.taste.com.au/recipes/slow-cooker-sri-lankan-chicken-curry-recipe/u8pnu1k9?r=healthy&h=Healthy
+Original: https://www.taste.com.au/recipes/slow-cooker-sri-lankan-chicken-curry-recipe/u8pnu1k9?r=healthy&h=Healthy
+
+Tags: Slow Cooker

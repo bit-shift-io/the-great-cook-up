@@ -36,3 +36,7 @@ serves 12
 9. Bake for an additional 15 -18 minutes or until a toothpick inserted in the center comes out clean. The total time these muffins take in the oven is about 20 - 25 minutes, give or take. For mini muffins, bake 12-14 total minutes at  180C. 
 10. Allow the muffins to cool for 5 minutes in the muffin pan, then transfer to a wire rack to continue cooling.
 11. Muffins stay fresh stored at room temperature for a few days or in the refrigerator for up to 1 week. You can freeze them :)
+
+## Notes
+
+Tags: Dessert

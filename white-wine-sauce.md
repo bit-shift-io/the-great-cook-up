@@ -19,6 +19,6 @@ Serves 4
 
 ## Notes
 
-https://julieblanner.com/white-wine-sauce/
+Original: https://julieblanner.com/white-wine-sauce/
 
 Tags: Sauce

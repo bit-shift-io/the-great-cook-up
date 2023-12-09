@@ -31,6 +31,6 @@ I used Tuna, but Red salmon is given in the origional recipie which might have a
 
 Serve with a sprinkle of parmy instead of adding it at bake time.
 
-Original recipe: https://www.taste.com.au/recipes/healthy-salmon-pasta-bake/mE43UGJi
+Original: https://www.taste.com.au/recipes/healthy-salmon-pasta-bake/mE43UGJi
 
 ![](./img/tuna-pasta-bake-1.jpg)

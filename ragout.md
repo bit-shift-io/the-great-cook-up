@@ -40,4 +40,4 @@ Serves 4
 Store in the fridge, warm and use on bread as a spread.
 Cut ingredients finely for a spread, chunky for a meal.
 
-https://www.youtube.com/watch?v=U1x-ppcR5GA
+Original: https://www.youtube.com/watch?v=U1x-ppcR5GA

@@ -30,4 +30,4 @@ Time to make: 20min
 
 ## Notes
 
-* Original: Jamie's 15 minute meals, p176
+Original: Jamie's 15 minute meals, p176

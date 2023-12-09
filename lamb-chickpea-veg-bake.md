@@ -37,8 +37,8 @@ Add diced tomato, + chickpeas (drained) and water. Bring to boil then simmer on 
 
 ## Notes
 
-* Baking frozen veg didn't really add any 'value' so this could be skipped in favour of defrost and just add in step 2, saving some pain and time. If you follow the original recipe it used raw pumpkin so it would be better in that case.
+Baking frozen veg didn't really add any 'value' so this could be skipped in favour of defrost and just add in step 2, saving some pain and time. If you follow the original recipe it used raw pumpkin so it would be better in that case.
 
-* Original recipe: https://www.taste.com.au/recipes/lamb-chickpea-pumpkin-bake/yeg46gzk
+Original: https://www.taste.com.au/recipes/lamb-chickpea-pumpkin-bake/yeg46gzk
 
 ![](./img/lamb-chickpea-veg-bake-1.jpg)

@@ -20,4 +20,4 @@ For use chicken shnitz, wedges, fries, wraps or burgers
 
 ## Notes
 
-https://www.allrecipes.com/recipe/230569/chef-johns-patatas-bravas/
+Original: https://www.allrecipes.com/recipe/230569/chef-johns-patatas-bravas/

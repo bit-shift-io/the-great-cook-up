@@ -29,6 +29,6 @@ serves 8
 
 ## Notes
 
-https://www.youtube.com/watch?v=U5ax8vMlsXQ
+Original: https://www.youtube.com/watch?v=U5ax8vMlsXQ
 
 Tags: Dessert

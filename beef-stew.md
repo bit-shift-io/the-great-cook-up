@@ -26,3 +26,5 @@ Serves 4
 
 
 ## Notes
+
+Tags: Pressure Cooker

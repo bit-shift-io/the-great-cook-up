@@ -34,4 +34,6 @@ Time: 30min prep + 2hr cook
 
 ## Notes
 
-Original recipe: https://www.taste.com.au/recipes/korean-style-beef-mushroom-soup/62jgss9j
+Original: https://www.taste.com.au/recipes/korean-style-beef-mushroom-soup/62jgss9j
+
+Tags: Soup

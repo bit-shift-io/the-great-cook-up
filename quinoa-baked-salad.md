@@ -42,4 +42,4 @@ Cook 35 min
 
 ## Notes
 
-* Honey & Mustard dressing (optional from the shop)  
+Honey & Mustard dressing (optional from the shop)  

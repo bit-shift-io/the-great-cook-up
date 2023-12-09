@@ -18,6 +18,6 @@
 
 ## Notes
 
-Original recipe: https://www.allrecipes.com/recipe/232530/chef-johns-tzatziki-sauce/
+Original: https://www.allrecipes.com/recipe/232530/chef-johns-tzatziki-sauce/
 
 Tags: Sauce

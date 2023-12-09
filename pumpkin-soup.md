@@ -30,7 +30,8 @@
 Tips: If the soup is too thick add a little low-fat milk to make desired consistency.
 
 ## Notes
-https://www.sbs.com.au/food/recipes/pumpkin-soup
+
+Original: https://www.sbs.com.au/food/recipes/pumpkin-soup
 https://www.healthier.qld.gov.au/food/recipes/pumpkin-soup/
 
 Tags: Soup

@@ -23,3 +23,5 @@ Time: 15min prep + 45min cook
 ## Notes
 
 From Raelene
+
+Tags: Soup

@@ -6,3 +6,7 @@
 * dash vanilla essence
 * 1 red date
 * 5 goji berries
+
+## Notes
+
+Tags: Drink

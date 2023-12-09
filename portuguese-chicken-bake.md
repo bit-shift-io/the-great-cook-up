@@ -38,6 +38,6 @@ Time to make: 30min prep/pre-cook + 1hr bake
 
 I think a dolop of yoghourt/sour cream would go well with this
 
-Original recipie: https://www.sunrice.com.au/rice-recipes/portuguese-chicken-bake/
+Original: https://www.sunrice.com.au/rice-recipes/portuguese-chicken-bake/
 
 ![](./img/portuguese-chicken-bake-1.jpg)

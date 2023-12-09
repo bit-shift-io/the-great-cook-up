@@ -18,3 +18,5 @@ Serves 2-3
 3. Add milk sugar to taste.
 
 ## Notes
+
+Tags: Dessert

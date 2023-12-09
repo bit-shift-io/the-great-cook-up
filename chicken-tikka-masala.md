@@ -2,7 +2,7 @@
 
 Serves 8
 
-## Marinade
+## Ingredients - Marinade
 
 * 1/2 cup yogurt
 * 1/2 lemon juice

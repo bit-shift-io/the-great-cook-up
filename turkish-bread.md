@@ -35,4 +35,5 @@ no-knead
 4. Roll out and cook for 2-3 mins on each side in frypan
    
 ## Notes
-https://www.youtube.com/watch?v=v8L7Ysr_5ao&list=WL&index=56
+
+Original: https://www.youtube.com/watch?v=v8L7Ysr_5ao&list=WL&index=56

@@ -32,6 +32,6 @@ Tastes very similar to potato and leek soup
 
 Original recipe also uses rosemary and chilli oil which might add more flavour
 
-Original recipe: https://www.taste.com.au/recipes/vegan-roasted-cauliflower-soup-recipe/l41c24sa?r=healthy&h=Healthy
+Original: https://www.taste.com.au/recipes/vegan-roasted-cauliflower-soup-recipe/l41c24sa?r=healthy&h=Healthy
 
 Tags: Soup

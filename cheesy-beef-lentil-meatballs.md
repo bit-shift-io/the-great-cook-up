@@ -35,4 +35,4 @@ Time: ?
 Original recipe is too slow and time consuming so I turned it into a chunky meat sauce.
 Can have each serve with half a tub of brown rice. 
 
-Original recipe: https://www.taste.com.au/recipes/cheesy-beef-lentil-meatballs-recipe/wuid9tz9
+Original: https://www.taste.com.au/recipes/cheesy-beef-lentil-meatballs-recipe/wuid9tz9

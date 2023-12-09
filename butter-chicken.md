@@ -29,4 +29,4 @@ Time to make: 20min prep + 30min cook
 
 ## Notes
 
-Original recipe: https://www.taste.com.au/recipes/healthy-butter-chicken-recipe/87ryfxza
+Original: https://www.taste.com.au/recipes/healthy-butter-chicken-recipe/87ryfxza

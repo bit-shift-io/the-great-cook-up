@@ -35,11 +35,11 @@ Time: 20min prep + 20min cook
 
 ## Notes
 
-* Sauce can be cooked and frozen then just prepare corn wedges on the day you want to eat
+Sauce can be cooked and frozen then just prepare corn wedges on the day you want to eat
 
-* Should be amazing with some cheese on top
+Should be amazing with some cheese on top
 
-* Original recipe: https://www.taste.com.au/recipes/healthy-vegetarian-nachos-recipe/baf2z4s1?r=healthy&h=Healthy
+Original: https://www.taste.com.au/recipes/healthy-vegetarian-nachos-recipe/baf2z4s1?r=healthy&h=Healthy
 
 ![](./img/nachos-1.jpg)
 

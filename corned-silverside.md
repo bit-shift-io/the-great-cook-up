@@ -25,3 +25,5 @@
 ## Notes
 
 Throw in half onions, chunky carrots, spud, cabbage 1hr before finished for a meal
+
+Tags: Pressure Cooker

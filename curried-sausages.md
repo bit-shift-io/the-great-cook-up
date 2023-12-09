@@ -41,4 +41,4 @@ Cook 30-40m
 
 ## Notes
 
-https://www.recipetineats.com/curried-sausages/
+Original: https://www.recipetineats.com/curried-sausages/

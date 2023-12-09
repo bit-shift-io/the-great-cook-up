@@ -22,4 +22,4 @@ Serves 8
 
 If you want to use butter, replace margarine + oil mix with 1/2 cup of softened butter
 
-https://www.spainonafork.com/restaurant-style-garlic-bread-in-under-10-minutes/
+Original: https://www.spainonafork.com/restaurant-style-garlic-bread-in-under-10-minutes/

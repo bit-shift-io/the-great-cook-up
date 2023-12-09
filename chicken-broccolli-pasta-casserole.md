@@ -30,7 +30,7 @@ Serves 18
 
 Needs more liquids - try 10cups chicken stock and 4cups milk. This will help reduce the need to constantly mix (i.e. step 5 might be eliminated)
 
-Original recipe: https://www.jaroflemons.com/healthy-chicken-broccoli-pasta-casserole/
+Original: https://www.jaroflemons.com/healthy-chicken-broccoli-pasta-casserole/
 
 
 ![](./img/chicken-broccolli-pasta-casserole-1.jpg)

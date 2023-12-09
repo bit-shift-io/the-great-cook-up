@@ -24,11 +24,11 @@ Time: 15min prep + 60min cook
 
 ## Notes
 
-* Next time try adding ~500g frozen veg 
+Next time try adding ~500g frozen veg 
 
-* Original recipe has extra garnishes which are not needed as the recipe is packed with flavour
+Original recipe has extra garnishes which are not needed as the recipe is packed with flavour
 
-* Original recipe: https://www.taste.com.au/recipes/mexican-style-chicken-tray-bake-recipe/663whe0g
+Original: https://www.taste.com.au/recipes/mexican-style-chicken-tray-bake-recipe/663whe0g
 
 ![](./img/mexican-chicken-bake-1.jpg)
 

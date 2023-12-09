@@ -31,4 +31,4 @@ Serves 6
 
 ## Notes
 
-https://foodwishes.blogspot.com/2019/02/garlic-naan-now-100-tandoor-free.html
+Original: https://foodwishes.blogspot.com/2019/02/garlic-naan-now-100-tandoor-free.html

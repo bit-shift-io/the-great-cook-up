@@ -34,8 +34,10 @@ Time: 30min prep + 1hr cook
 
 ## Notes
 
-* Origional recipe: https://www.allrecipes.com/recipe/13978/lentil-soup/
+Original: https://www.allrecipes.com/recipe/13978/lentil-soup/
 
 ![](./img/chicken-lentil-soup-1.jpg)
 
 ![](./img/chicken-lentil-soup-2.jpg)
+
+Tags: Soup

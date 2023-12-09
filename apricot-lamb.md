@@ -36,3 +36,5 @@ Serve with mint sauce
 ## Notes
 
 Origional recipe: https://www.taste.com.au/recipes/healthy-slow-cooker-apricot-lamb-recipe/srdkqd4f?r=healthy&h=Healthy
+
+Tags: Slow Cooker

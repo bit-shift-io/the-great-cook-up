@@ -20,6 +20,6 @@ Cook 10 min
 
 ## Notes
 
-https://www.allrecipes.com/recipe/109914/pierogi-polish-dumplings/
+Original: https://www.allrecipes.com/recipe/109914/pierogi-polish-dumplings/
 
 ![](./img/pierogi.jpg)

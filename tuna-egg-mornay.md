@@ -34,5 +34,6 @@ Time to make: 1hr prep + precook, 30min cook
 
 ## Notes
 
-* 500g shredded cheese pack should be ample
-* Original: Rayelenes' Recipes
+500g shredded cheese pack should be ample
+
+Original: Rayelenes' Recipes

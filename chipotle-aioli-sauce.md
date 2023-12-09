@@ -29,7 +29,7 @@ pinch of salt
 
 ## Notes
 
-https://www.berlyskitchen.com/simple-chipotle-cream-sauce/
+Original: https://www.berlyskitchen.com/simple-chipotle-cream-sauce/
 
 https://www.youtube.com/watch?v=Jm0nYywud4A
 

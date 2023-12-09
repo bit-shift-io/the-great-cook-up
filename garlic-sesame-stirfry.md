@@ -20,4 +20,4 @@
 
 ## Notes
 
-https://www.food.com/recipe/garlic-sesame-sauce-338684
+Original: https://www.food.com/recipe/garlic-sesame-sauce-338684

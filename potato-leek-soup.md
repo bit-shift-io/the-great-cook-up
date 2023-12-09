@@ -27,4 +27,6 @@ Serve with toast and chives
 
 ## Notes
 
-* Origional recipe: https://www.taste.com.au/recipes/potato-leek-soup-2/56c16a16-d92c-475c-92cc-4b8eecd6c0c5
+Origional: https://www.taste.com.au/recipes/potato-leek-soup-2/56c16a16-d92c-475c-92cc-4b8eecd6c0c5
+
+Tags: Soup

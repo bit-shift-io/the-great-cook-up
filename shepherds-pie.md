@@ -40,4 +40,4 @@ Time: 15 min prep + 50 min cook
 
 ## Notes
 
-Original recipe: https://www.stayathomemum.com.au/recipes/shepherds-pie/
+Original: https://www.stayathomemum.com.au/recipes/shepherds-pie/

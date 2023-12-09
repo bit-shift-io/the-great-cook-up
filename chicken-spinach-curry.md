@@ -30,4 +30,4 @@ Time: 30min prep + 45min cook
 
 ## Notes
 
-* Origional recipe: https://www.taste.com.au/recipes/chicken-spinach-curry/e9968e7e-96bd-4330-a7c8-3c97ec7522da
+Original: https://www.taste.com.au/recipes/chicken-spinach-curry/e9968e7e-96bd-4330-a7c8-3c97ec7522da
