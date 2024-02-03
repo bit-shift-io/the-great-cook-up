@@ -14,7 +14,7 @@ serves 8
 * 1 TB honey (optional flavour)
 * 2 eggs lightly beaten
 * 1/3 cup butter melted or light oil
-* 2/3 cup mashed banana mix
+* 2/3 cup mashed banana mix  
     * dash milk
     * 2 bananas
 
