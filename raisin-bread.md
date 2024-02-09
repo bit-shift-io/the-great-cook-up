@@ -1,33 +1,21 @@
 # Raisin Bread
 
-## Ingredients - Experiment 3
+## Ingredients
 
-* 2 1/2 cup of flour (I used 1 cup wholemeal + 1 1/2 cup white)
-* 1 tsp sugar OR cinammon suguar (OR try 1/2 tsp cinammon + 1/2 tsp sugar)
-* sprinkle of salt
+* 2 1/2 cup of flour (I use 1 cup wholemeal + 1 1/2 cup white)
 * 300 ml water
 * 1 tsp yeast
-* 1/2 cup raisins (maybe try 1/2 to reduce density of loaf?) - PUT IN THE DEISPENSER AND USE MENU 3 (Basic Raisin)
-* 1/2 tsp all spice + 1/2 tsp nutmeg - OR try 1 tsp mixed spice
+* 1 cup some combination of: raisins, prunes, or dates (dates are the best!) - PUT IN THE DISPENSER AND USE MENU 3 (Basic Raisin)
 
-## Notes - Experiment 3
+* 1 tsp some combination of: sugar, cinammon
+* 1 tsp some combination of: all spice, nutmeg, mixed spice
 
-Less dense than experiment #2. But not enough raisins. So next time try 1 cup raisins, and 2.5 cups flour.
-Try powdering raisins in flour before hand.
+* sprinkle of salt (optional)
+* 1/2 tsp vanilla essence (optional - maybe helps make it smoother?)
 
-## Ingredients - Experiment 2
+* 1/2 tsp baking powder (optional - extra raising agent, maybe helps make it smoother?)
+* 1/2 tsp bicarb (optional - extra raising agent, maybe helps make it smoother?)
 
-* 2 1/4 cup of flour (I used 1 cup wholemeal + 1 1/4 cup white)
-* 1 tsp sugar OR cinammon suguar (OR try 1/2 tsp cinammon + 1/2 tsp sugar)
-* sprinkle of salt
-* 300 ml water
-* 1 tsp yeast
-* 1 cup raisins (maybe try 1/2 to reduce density of loaf?) - PUT IN THE DEISPENSER AND USE MENU 3 (Basic Raisin)
-* 1/2 tsp all spice + 1/2 tsp nutmeg - OR try 1 tsp mixed spice
-
-## Notes - Experiment 2
-
-Taste good, comes out pretty dense compared to a normal load though.
-Taste better fresh but still works great toasted!
+## Notes
 
 Tags: Bread Machine
