@@ -12,6 +12,7 @@ Cook 20 min
 * 3 carrot
 * 2 onion
 * garlic
+* 1 can coconut milk
 * coriander powder
 * ginger powder
 * tumeric powder
@@ -23,7 +24,7 @@ Cook 20 min
 3. Add sweet potato & carrot, fry till coated.
 4. Add meat of choice, beef, chicken, tuna all work well.
 5. Add beans for quick fry.
-6. Put the lot in the pressure cooker for 15-20mins.
+6. Put the lot in the pressure cooker with coconut milk for 15-20mins.
 
 ## Notes
 
