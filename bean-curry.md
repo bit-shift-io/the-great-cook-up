@@ -11,11 +11,12 @@ Cook 20 min
 * 3 sweet potato
 * 3 carrot
 * 2 onion
-* garlic
+* 1 tsp garlic powder
 * 1 can coconut milk
-* coriander powder
-* ginger powder
-* tumeric powder
+* 1 Tb coriander powder
+* 1 tsp ginger powder
+* 1 Tb tumeric powder
+* 1 tsp onion powder
 
 ## Method
 
