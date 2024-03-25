@@ -1,6 +1,6 @@
 # Sausage and Potato Casserole
 
-Servers: 4
+Serves: 4
 
 ## Ingredients
 

@@ -1,6 +1,6 @@
 # Beef and Chick Peas
 
-Servers: 4
+Serves: 4
 
 ## Ingredients
 
