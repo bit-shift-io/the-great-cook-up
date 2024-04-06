@@ -26,4 +26,6 @@ Serves: 4
 
 ## Notes
 
+Patties were crumbly, so try cooking this up like a stirfry?
+
 Original: Woman's Weekly Menu Planner No.4 Series 3. Page 52.
