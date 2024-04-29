@@ -1,4 +1,4 @@
-# Checken with Olives and Feta
+# Chicken with Olives and Feta
 
 Serves: 8
 
