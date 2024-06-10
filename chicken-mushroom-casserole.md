@@ -5,7 +5,7 @@ Time: 10min prep + 20min cook
 
 ## Ingredients
 
-* 8 chicken tigh (~1kg)
+* 8 chicken thigh (~1kg)
 * 125g sliced mushrooms
 * 3 shallots
 * frozen veg
