@@ -6,12 +6,17 @@ serves 7
 
 * 2 med/large bananas (or 3 small)
 * 2 eggs
-* 1/8 cup milk
-* 1 cup quick oats
-* 1/4 cup plain flour
+* 1/8 (2 Tb) cup milk
+* 1 cup quick oats (no flour if using oat bran)
+* 1/8 cup plain flour
 * 1/4 tsp salt
 * 1/2 tsp baking soda
-* 1/22 tsp baking powder
+* 1/2 tsp baking powder
+
+## Optional
+
+* 1/2 tbs vanilla essence
+* 1 Tb yoghurt
 
 
 ## Extras
@@ -22,9 +27,8 @@ serves 7
 ## Method
 
 1. Throw ingredients to blender
-2. Mix baking soda and powder in after by hand for extra fluffy
-3. Pour into muffin tray
-4. Bake in air frier 150 degrees for about 18 mins
+2. Pour into muffin tray
+3. Bake in air frier 150 degrees for about 18 mins
 
 ## Notes
 
