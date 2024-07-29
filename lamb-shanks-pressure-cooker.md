@@ -38,3 +38,5 @@ Cook 60 mins
 ## Notes
 
 https://www.mysugarfreekitchen.com/pressure-cooker-lamb-shanks/
+
+Tags: Pressure Cooker
