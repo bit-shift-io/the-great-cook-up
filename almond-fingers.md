@@ -21,7 +21,7 @@ Cook 30 min
 
 ## Ingredients for Almond Filling
 
-To replace marzipan try:
+Untested. To replace marzipan try:
 
 * almond meal
 * sugar
@@ -43,3 +43,6 @@ To replace marzipan try:
 ## Notes
 
 Tags: Dessert
+
+Sources: https://geoffsbakingblog.com/2018/03/kanos-rondos-dutch-almond-cakes/
+https://mamalolacooks.com/dutch-almond-fingers/
