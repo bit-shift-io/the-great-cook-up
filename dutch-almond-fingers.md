@@ -1,49 +1,44 @@
 # Dutch Almond Fingers
 
-Serves 10
-Prep 20 min 
+Serves 8
+Prep 30 min 
 Cook 30 min
 
-## Ingredients
+## Ingredients for Pastry
 
-* 125g butter/margarine
-* 60g-80g caster sugar or brown sugar
-* 1.5 cup plain flour
-* 0.5 cup self aising flour 
-* 2 eggs
-* 1 tsp vanilla essence
-* 1 tsp almond essence
-* 1/4 tsp cinnamon
-* 1/4 tsp cardamom or nutmeg
-* lemon zest (optional)
-* almond flakes (optional)
-* 250g marzipan
+* 200g (1 2/3 cups) plain flour
+* 5g (1 tsp) baking powder
+* pinch of salt
+* 100g (1/2 cup) brown sugar
+* 150g butter
 
-## Ingredients for Almond Filling
+## Ingredients for Filling
 
-Untested. To replace marzipan try:
-
-* almond meal
-* sugar
-* salt
-* egg
-* almond extract
+* 75g almond meal
+* 75g caster sugar
+* zest from 1/2 lemon
+* 1/2 tsp almond extract (optional)
+* water
+* 1 egg
+* shaved almonds
 
 ## Method
 
-1. Preheat oven to 160.
-2. Mix butter, sugar self raising and plain flour with a mixer.
-3. Mix in eggs, vanilla essence, almond essence, cinnamon, cardamom, lemon zest.
-4. Roll out dough on baking paper making super thin (as it rises), around 40cm x 30cm rectangle.
-5. Need marzipan to take up 50% of the dough area, place on top and cut dough to cover the marzipan, making a marzipan sandwich.
-6. Score the top and place on almond flakes. Brush with a beaten egg or butter.
-7. Bake for 30 min or till golden brown (prefer undercooking).
+1. Mix ingredients for filling: almond meal, caster sugar, lemon zest, almond extract, shaved almonds.
+2. Stir in water 1 tsp at a time to form a thick damp paste.
+3. Beat egg and add a little at a time to reduce consistency (should only need about half the egg).
+4. Mix ingredients for pastry: flour, sugar, baking powder, salt, butter. Nuke for 20 seconds if needed to soften the butter. To form a dough.
+5. Divide pastry dough, wrap in plastic and refrigerate for 1 hr (I skip this step, I think its to make it less sticky and easier to roll?).
+6. Preheat oven to 180. I used 220 degrees in my crap oven with a heat diffuser at the bottom.
+7. Roll our pastry dough, cut and place in bottom of muffin tray. Add a tea spoon of filling. Cover with more pastry dough.
+8. Brush with egg. Add shaved almonds on top. Brush again with egg.
+9. Bake for ~20 mins or till tops start craking and going golden brown.
+10. Remove from oven, let cool for 5 min then empty onto a cooling rack.
 
 ## Notes
 
-Joes tips to try: Use pan on bottom to diffuse heat. Cook at higher temp for shorter to get browning.
+These taste best on the day after being cooked.
 
 Tags: Dessert
 
-Original: https://mamalolacooks.com/dutch-almond-fingers/
-https://geoffsbakingblog.com/2018/03/kanos-rondos-dutch-almond-cakes/
+Original: https://geoffsbakingblog.com/2018/03/kanos-rondos-dutch-almond-cakes/
