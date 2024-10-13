@@ -14,7 +14,7 @@ Serves 8
 ## Method
 
 1. Mix batter and coat sticks well
-2. Shallow deep fry in a small pan for 1-2 min till golden brown
+2. Shallow deep fry, medium-low or they can burn on the bottom of the pan. In a small pan for 1-2 min till golden brown
 
 ## Notes
 
