@@ -37,3 +37,5 @@ Gelatine stuffed up and made it gross, so try without!
 Try do a thin crust and thin layer of cake over the top - maybe a pizza tray with baking paper?
 
 Original: https://www.recipetineats.com/no-bake-cheesecake/
+
+Tags: Dessert
