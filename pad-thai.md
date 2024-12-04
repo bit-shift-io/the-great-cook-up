@@ -25,11 +25,11 @@ Serves: 4
 
 ## Ingredients
 
-* 2 chicken breast diced
+* 2 chicken breast diced (~600g)
 * hand full of prawns, frozen veg and/or bean sprouts (optional)
 * 1/2 pack - 250g pad thai noodles
 * 1/2 tsp garlic
-* 1/2 onion
+* 1 onion
 * 2 eggs lightly beaten
 * 1 bok choy
 
