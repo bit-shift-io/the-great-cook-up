@@ -15,13 +15,9 @@ Serves: 4
 ## Method
 
 1. Rinse and drain chick peas, dice onion, make beef stock. Cook rice
-
 2. Cook garlic and onion in a dash of oil, till onion is soft.
-
 3. Add mince, cook til browned.
-
 4. Add tomatoes, stock and all spice, simmer for ~10 mins.
-
 5. Add chick peas (+ rice if you want), simmer for ~5mins.
 
 ## Notes
