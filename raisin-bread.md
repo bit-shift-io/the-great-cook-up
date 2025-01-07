@@ -11,6 +11,8 @@
 * 1/2 tsp nutmeg
 * 1/2 tsp allspice
 * 1/2 tsp vanilla essence
+* 1/2 tsp butter (opt)
+* 1/2 tsp oil (opt)
 * 1 tsp maple syrup (not the fake stuff)
 
 * 1 cup some combination of: raisins, prunes, or dates 
