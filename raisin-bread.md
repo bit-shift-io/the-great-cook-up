@@ -18,10 +18,13 @@
 ## Instructions
 
 1. Yest on the bottom, then flour, then everything else. Keep the spices SEPERATE from the YEAST.
-2. Fruit in the dispenser - MENU 3 (Basic Raisin)
-3. Cook right away. If the load comes out with a flat/collapsed and heavy, reduce yeast.
+2. Fruit in the dispenser.
+3. Machine: MENU 3 (Basic Raisin), Light crust, L or XL size.
+4. Cook right away for max flavour. If the load comes out with a flat/collapsed and heavy, reduce yeast.
 
 ## Notes
+
+If you leave it overnight, the yeast seems to pig out on the spice and make the bread heavy.
 
 Tags: Bread Machine
 
