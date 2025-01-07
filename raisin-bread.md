@@ -1,5 +1,33 @@
 # Raisin Bread
 
+
+## Ingredients
+
+* 2 tsp yeast
+* 2 1/2 cup of bread flour
+* 300 ml water
+
+* 1/2 tsp cinamon
+* 1/2 tsp nutmeg
+* 1/2 tsp allspice
+* 1/2 tsp vanilla essence
+* 1 tsp maple syrup (not the fake stuff)
+
+* 1 cup some combination of: raisins, prunes, or dates 
+
+## Instructions
+
+1. Yest on the bottom, then flour, then everything else. Keep the spices SEPERATE from the YEAST.
+2. Fruit in the dispenser - MENU 3 (Basic Raisin)
+3. Cook right away. If the load comes out with a flat/collapsed and heavy, reduce yeast.
+
+## Notes
+
+Tags: Bread Machine
+
+
+# Fabs old
+
 ## Ingredients
 
 * 2 1/2 cup of flour (I use 1 cup wholemeal + 1 1/2 cup white)
