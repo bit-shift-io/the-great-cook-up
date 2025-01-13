@@ -31,7 +31,7 @@ Serves: 8
 
 ## Notes
 
-In future I want to try throwing in some saltanas.
+In future I want to try throwing in some saltanas. Also try xanthm gum as a thickener?
 
 Derived from: https://fooddoodles.com/no-bake-greek-yogurt-cheesecakewithout-gelatin/
 
