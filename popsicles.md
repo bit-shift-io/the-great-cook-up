@@ -23,4 +23,7 @@
 
 ## Notes
 
+Sugar & fat improve texture.
+Placing in the fridge to bring temp down slowly improves texture.
+
 Tags: Snacks
