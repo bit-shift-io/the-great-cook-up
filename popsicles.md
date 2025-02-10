@@ -26,4 +26,19 @@
 Sugar & fat improve texture.
 Placing in the fridge to bring temp down slowly improves texture.
 
+
+
+# Frozen Yogurt - Banana
+
+## Ingredients
+
+* 500ml full greek yogurt
+* 100ml dolop cream (opt)
+* 1 cup banana
+* 1 tsp vanilla essence
+* 1 Tb glucose syrup
+* 2 Tb maple syrup
+* 1/4 tsp xanthan gum
+
+
 Tags: Snacks
