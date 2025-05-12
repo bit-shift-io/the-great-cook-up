@@ -1,5 +1,19 @@
 # Bubble Solution
 
+## Ingredients
+
+* 1 tsp warm glucose/corn syrup
+* 2 cup hot water
+* 1/4 cup dish soap
+
+
+## Method
+
+1. add warm ingredients to container
+4. gentle stir and store in a jar
+
+
+# Bubble Solution Original
 
 ## Ingredients
 
