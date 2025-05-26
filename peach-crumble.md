@@ -21,11 +21,14 @@ Cook: 45 m
 
 ## Method
 
+
+0. Oven to 180C
 1. Drain juice from 1 can. And combine with other can and its juice, with the other fruit ingredients.
 2. In a bowl combine topping ingredients. Mix till crumbly balls are formed.
 3. Spread 1/2 topping over the base and stir into the fruit.
 4. Spread the remaining topping over the fruit, dont mix in. 
 5. Sprinkle with extra cinnamon and sugar for golden top.
+6. Cook in oven 180C for 40-50mins or till light brown top.
 
 
 ## Notes
