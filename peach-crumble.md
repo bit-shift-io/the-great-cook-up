@@ -33,4 +33,10 @@ Cook: 45 m
 
 ## Notes
 
+Sources:
+
+https://www.pauladeen.com/recipe/dutch-oven-peach-cobbler/#ingredients
+
+https://preppykitchen.com/peach-cobbler/
+
 Tags: Dessert
