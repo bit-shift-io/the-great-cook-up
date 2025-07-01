@@ -15,7 +15,8 @@
 * 1/2 tsp oil (opt)
 * 1 tsp maple syrup (not the fake stuff)
 
-* 1 cup some combination of: raisins, prunes, or dates 
+* 1 cup some combination of: raisins, prunes, or dates
+* If you want a more solid loaf, perfect for toasting. Add 2 eggs and a bit of olive oil + sugar
 
 ## Instructions
 

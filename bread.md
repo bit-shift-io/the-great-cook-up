@@ -12,6 +12,9 @@
 
 ## Notes
 
+If you want a more solid loaf, perfect for toasting. Add 2 eggs and a bit of olive oil + sugar
+
+
 
 # Bread - No Knead
 
