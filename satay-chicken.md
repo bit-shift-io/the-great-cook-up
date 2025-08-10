@@ -32,4 +32,4 @@ Time to make: 1hr prep, 20min cook
 
 This is double the original recipe
 
-Original: Rayelene
+Original: Raelene

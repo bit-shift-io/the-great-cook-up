@@ -34,6 +34,6 @@ Topping:  Combine ingredients well.
 
 ## Notes
 
-Original: Rayelene
+Original: Raelene
 
 Tags: Dessert
