@@ -37,3 +37,24 @@ serves 2
 1. Add ingriedients to microwave safe container
 2. Leave overnight (optional)
 3. Microwave for 5 mins, stir, then another 5 mins
+
+
+# Oatmeal Porridge (pressure cook)
+
+Serves 2
+
+## Ingredients
+
+* 1 cup rolled oats
+* 2 cup water
+* 1 cup milk
+
+## Method
+
+1. 1 cup oats, 2 cups water to pressure cooker
+2. Set manual, cook for 4-5 mins
+3. Quick release
+4. Add milk and cook further till thick either in microwave or pot ~ 2 mins.
+
+## Notes
+Can leave in firdge upto 5 days.
