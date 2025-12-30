@@ -4,10 +4,10 @@ Makes 10
 
 ## Ingredients
 
-* 2-2.5 cups SR flour
-* 2.5 cups milk
+* 2 cups SR flour
+* 2 cups milk
 * 2 eggs
-* 2 tsp salt
+* 1/2 tsp salt
 * 1-2 tsp vanilla essence
 * 1Tb melted butter
 
