@@ -1,11 +1,20 @@
 # Popsicles, ice blocks, frozen yogurt
 
+Amount for the white mould:
+* 1/4 cup blueberries (or mixed blueberries)
+* 1 tbs glucose syrup / honey
+* 2 tbs maple syrup
+* 1/8 tsp xanthan gum
+* 1 1/4 cups full greek yogurt
+* 100ml dolop cream (opt)
+
+
 
 # Frozen Yogurt - Berry
 
 ## Ingredients
 
-* 500ml full greek yogurt
+* (2 cups) 500ml full greek yogurt
 * 100ml dolop cream (opt)
 * 1 cup blueberries (or mixed blueberries)
 * 1 Tb glucose syrup
