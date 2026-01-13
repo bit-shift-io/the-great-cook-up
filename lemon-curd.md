@@ -13,7 +13,7 @@ Time: 10 min prep + 10 min cook
 ## Method
 
 1. Put the following into a sauce pan: Zest lemons, Juice lemons, Strain egg yolks (remove egg whites). Whisk.
-2. Heat on low stiring constantly with wooden spoon to get the sauce pan corners. Wait till just starts to bubble and coats back of wooden spoon, then cook for 2 more mins, then turn off.
+2. Heat on low (power level 20) stiring constantly with wooden spoon to get the sauce pan corners. Wait till just starts to bubble and coats back of wooden spoon, then cook for 2 more mins, then turn off.
 3. Add cubed butter and mix till melted in.
 
 ## Notes
