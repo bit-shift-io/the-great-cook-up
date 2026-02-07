@@ -34,4 +34,6 @@ Serves: 16
 
 ## Notes
 
+Tags: Dessert
+
 * Origional recipe: https://www.carolinescooking.com/peppermint-slice/
