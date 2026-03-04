@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-* 2Tb yeast
+* 2 tsp yeast
 * 1/2 tsp baking powder
 * 1/2 tsp bicarb
 * pinch of salt
@@ -18,4 +18,5 @@
 
 This is designed for flours that do not rise as much, i.e. organic or low glutten (e.g. Wholegrain Milling Co Organic).
 
+Tags: Bread Machine
 
