@@ -15,10 +15,6 @@ Serves 40 cookies
 * 2 cup chopped dark chocolate, (or any chocolate of your choice)
 * Flaky sea salt for garnish, (optional)
 
-## Ingredients
-
-* Saltanas/rasins
-
 ## Method
 
 1. In a mixer or a large bowl, mix melted butter and sugars. Add egg and vanilla extract. Mix until smooth and well combined.
