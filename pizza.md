@@ -1,16 +1,29 @@
 # Pizza
 
-Makes 1 tray
-Prep 2 hr
-Cook 30 min
+Makes 1 tray  
+Prep 2 hr  
+Cook 30 min  
 
 ## Dough
 
-* 2 cups plain flour (not bread flour) (try 1-1.5 cups as its to thick)
+Very Thick Base:
+* 2 cups plain flour (not bread flour)
 * 250 ml water (add more if needed)
 * 2 1/4 tsp yeast
-* 2 tsp sugar
-* 1 tsp salt
+
+Medium Base:
+* 1.5 cups plain flour
+* 190 ml water
+* 2 tsp yeast
+
+Thin Base:
+* 1 cups plain flour
+* 125 ml water
+* 1 tsp yeast
+
+For all:
+* 1-2 tsp sugar
+* 1/2 tsp salt
 * 1 tsp olive oil
 
 
@@ -18,17 +31,29 @@ Cook 30 min
 
 * pizza sauce, dont get extra strength
 * get pizza cheese, not tasty
+
 * onion
 * tomato
 * mushroom
 * capcicum
 * olive
 * pineapple
+* zucchini - brown fried
+* egg
+* pumpkin
+
+
 * prawn
 * salami
 * chicken
 * ham
+* turkey
 
+
+* oregano
+* italian
+* smoked paprica
+* garlic & onion powder
 
 ## Method
 
@@ -43,6 +68,9 @@ Cook 30 min
 ## Notes
 
 Use baking paper + flour on tray  
+
 Should be a ragged slightly damp dough  
+
 Easy on the toppings  
+
 Drain topings well  
