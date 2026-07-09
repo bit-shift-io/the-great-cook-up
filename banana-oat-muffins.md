@@ -28,7 +28,8 @@ serves 7
 
 1. Throw ingredients to blender
 2. Pour into muffin tray
-3. Bake in air frier 150 degrees for about 18 mins
+3. Airfry: Bake in air frier 150 degrees for about 18 mins
+4. Oven: Bake 160 for 18 mins. Let cool in oven so doesnt flop.
 
 ## Notes
 
