@@ -5,11 +5,11 @@ Serves: ???
 
 ## Ingredients
 
-* Sponge fingers
-* Strawberry jelly
-* Fruit salad
-* Cream
-* Flake chocolate
+* 1/2 a 300g packet Sponge fingers
+* 85g packet Strawberry jelly
+* 825g can Fruit salad
+* 150-200g Light Cream
+* 1/2 packet Flake chocolate (optional)
 
 ## Custard Ingredients
 

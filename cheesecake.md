@@ -18,6 +18,8 @@ Serves: 8
 * 300ml thickend cream (full fat)
 * 3 Tbl lemon juice (~2 lemons)
 * 1 tea vanilla essence
+* 1 tsp Xanthm gum
+* Top with some Saltanas (optional)
 * pinch salt
 
 ## Method
@@ -27,11 +29,11 @@ Serves: 8
 3. In a seprate bowl whip thickend cream.
 4. Mix 1/2 (try 2/3rds next time?) the thickend cream into the cream cheese mix by hand.
 5. Pour filling over crust. Refrigerate for 24hrs.
-6. Top with left over cream cheese (be aware: this will reduce tanginess), passion fruit mixed with a little caster sugar or other berries.
+6. Top with sultanas or passion fruit mixed with a little caster sugar or other berries.
 
 ## Notes
 
-In future I want to try throwing in some saltanas. Also try xanthm gum as a thickener?
+Last time was too much cream and cheesiness. Nex time try: 1 cup greek yoghurt, 150ml-200ml light cream mixed in with no cream on top. Try on a small plate next time to encourage a thicker base?
 
 Derived from: https://fooddoodles.com/no-bake-greek-yogurt-cheesecakewithout-gelatin/
 
