@@ -10,6 +10,7 @@ cook 20 min
 * 1/2 cup applesauce
 * 1/2 cup water
 * 3 Tbs oil
+* 2 tsp vanilla extract
 * 1 Tbs vinegar
 * 1/3 cups sugar
 * 3/4 tsp salt
