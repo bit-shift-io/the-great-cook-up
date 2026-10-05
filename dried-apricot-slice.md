@@ -2,7 +2,7 @@
 
 Serves:  
 
-Time: 
+Time: 30 min bake
 
 ## Ingredients
 
@@ -20,7 +20,7 @@ Time:
 
 1. Cream butter and sugar together; then gradually beat in eggs.  
 2. Add sifted flour, salt, apricots, coconut, milk and vanilla.  
-3. Bake in 27.5 cm x 18cm tin for ½ hour at 180  C.
+3. Bake in 27.5 cm x 18cm tin for ½ hour at 180°C.
 4. Ice with a lemon icing, sprinkled with chopped nuts or coconut and cut into fingers.
 
 ## Notes
