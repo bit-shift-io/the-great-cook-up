@@ -32,4 +32,6 @@ Time: 15min prep + 30min cook
 
 ## Notes
 
+Tags: One-pot
+
 Origial: https://www.taste.com.au/recipes/one-pan-quick-easy-cauliflower-korma-recipe/ri08ylwj?r=recipes/zey6x1m3

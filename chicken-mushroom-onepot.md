@@ -32,6 +32,8 @@ Serve with couscous, rice or mashed potato
 
 ## Notes
 
+Tags: One-pot
+
 Original: https://www.taste.com.au/recipes/low-cal-chicken-mushroom-one-pot/clnk7ezq
 
 ![](./img/chicken-mushroom-onepot-1.jpg)
